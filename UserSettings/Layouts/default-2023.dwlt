@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1357
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -324,7 +324,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -334,16 +334,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: F:\UnityProjects\EgyptianTemple
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 4cb00000
-    m_LastClickedID: 45132
-    m_ExpandedIDs: 000000004cb00000
+    m_SelectedIDs: d0b00000
+    m_LastClickedID: 45264
+    m_ExpandedIDs: 0000000050b00000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -372,7 +372,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000004cb00000
+    m_ExpandedIDs: 0000000050b00000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1127,9 +1127,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 140.38785, y: -108.9392, z: -10.408019}
+    m_Target: {x: 110.77368, y: -142.73897, z: -4.7479706}
     speed: 2
-    m_Value: {x: 140.38785, y: -108.9392, z: -10.408018}
+    m_Value: {x: 110.77368, y: -142.73897, z: -4.7479706}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1175,9 +1175,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.23065098, y: 0.2687443, z: -0.06644953, w: 0.93282926}
+    m_Target: {x: 0.26661223, y: 0.32568055, z: -0.096265234, w: 0.9019942}
     speed: 2
-    m_Value: {x: 0.23204888, y: 0.26864305, z: -0.066852264, w: 0.9324779}
+    m_Value: {x: 0.26796353, y: 0.3255341, z: -0.09675315, w: 0.9015886}
   m_Size:
     m_Target: 183.3117
     speed: 2
